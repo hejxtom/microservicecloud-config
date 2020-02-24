@@ -52,7 +52,7 @@ info:
 server:
   port: 8001
 spring:
-  profiles: dev
+  profiles: test
   application:
     name: microservicecloud-config-dept-client  #应用名称
   datasource:
